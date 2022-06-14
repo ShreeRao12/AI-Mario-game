@@ -1,0 +1,41 @@
+.heading
+{
+    width: 100%;
+}
+#instructions
+{
+    float: right;
+    border: 1px solid white;
+}
+.heading h3
+{
+ display:inline;
+}
+#big_image
+{
+    width: 100%;
+}
+#start
+{
+    margin-top: 15px;
+    font-size: 20px;
+}
+#status
+{
+    font-size: 20px;
+}
+#footer
+{
+ background-color: aliceblue;
+ margin: 0px;
+ line-height:3;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.instructions_img
+{
+    width: 45%;
+    display: inline;
+}
